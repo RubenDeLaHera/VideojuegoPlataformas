@@ -1,2 +1,2 @@
 # VideojuegoPlataformas
-Integrantes: Rubén de la Hera, Nomeí Valle y Daniel Peláez.
+Integrantes: Rubén de la Hera, Noemí Valle y Daniel Peláez.
